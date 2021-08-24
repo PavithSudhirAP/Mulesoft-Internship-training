@@ -1,2 +1,2 @@
-# Mulesoft-Internship-training
-Projects done to learn mulesoft
+### Mulesoft-Internship-training
+This repo contains all my projects done during mulesoft internship from NJC Labs
