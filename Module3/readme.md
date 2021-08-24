@@ -5,4 +5,4 @@
 ### [American Flights API folder](https://github.com/PavithSudhirAP/Mulesoft-Internship-training/tree/main/Module3/American%20Flights%20API) - extracted project files
 
 
-#### [Anypoint platform Public Portal](https://anypoint.mulesoft.com/exchange/portals/njc-labs-6331/) - My Anypoint platform public portal exchange link
+### [Anypoint platform Public Portal](https://anypoint.mulesoft.com/exchange/portals/njc-labs-6331/) - My Anypoint platform public portal exchange link
